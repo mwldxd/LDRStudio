@@ -41,7 +41,7 @@ const Navbar = () => {
           {/* Logo Section */}
           <Link to="/" className="flex items-center gap-3 group">
             <div className="w-10 h-10 bg-pink-500 rounded-xl border-[3px] border-slate-800 shadow-[3px_3px_0_#1e293b] flex items-center justify-center transition-transform group-hover:scale-105">
-              <span className="text-white font-retro text-lg leading-none mt-1">F</span>
+              <span className="text-white font-retro text-lg leading-none mt-1">LDR</span>
             </div>
             <span className="font-retro text-xl text-slate-900 hidden sm:block tracking-tighter">
               LDR<span className="text-pink-500">STUDIO</span>
