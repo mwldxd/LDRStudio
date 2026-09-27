@@ -96,8 +96,8 @@ const HomePage = () => {
       `}</style>
       <div className="w-full bg-pink-50 text-slate-800 py-2 border-b-[3px] border-slate-800 overflow-hidden z-50 relative">
         <div className="animate-marquee font-mono text-xs tracking-widest whitespace-nowrap uppercase font-bold">
-          <span className="mx-4">✦ FRYSSIA STUDIO ✦ DIGITAL CREATIVE SPACE ✦ MINIMALIST DESIGN ✦ CAPTURE YOUR MOMENTS ✦ SEAMLESS EXPERIENCE ✦</span>
-          <span className="mx-4">✦ FRYSSIA STUDIO ✦ DIGITAL CREATIVE SPACE ✦ MINIMALIST DESIGN ✦ CAPTURE YOUR MOMENTS ✦ SEAMLESS EXPERIENCE ✦</span>
+          <span className="mx-4">✦ LDR STUDIO ✦ DIGITAL CREATIVE SPACE ✦ MINIMALIST DESIGN ✦ CAPTURE YOUR MOMENTS ✦ SEAMLESS EXPERIENCE ✦</span>
+          <span className="mx-4">✦ LDR STUDIO ✦ DIGITAL CREATIVE SPACE ✦ MINIMALIST DESIGN ✦ CAPTURE YOUR MOMENTS ✦ SEAMLESS EXPERIENCE ✦</span>
         </div>
       </div>
 
@@ -117,7 +117,7 @@ const HomePage = () => {
           </motion.div>
 
           <motion.h1 {...fadeUp(0.1)} className="font-retro text-6xl sm:text-7xl lg:text-8xl leading-[0.9] mb-6 drop-shadow-sm text-slate-900">
-            Fryssia
+            LDR
             <br />
             <span className="text-pink-500 relative inline-block mt-2">
               Studio
@@ -252,7 +252,7 @@ const HomePage = () => {
 
       {/* ======= FOOTER ======= */}
       <footer className="py-12 px-4 bg-pink-50 text-center">
-        <h2 className="font-retro text-2xl text-slate-900 mb-2 tracking-widest">FRYSSIA STUDIO</h2>
+        <h2 className="font-retro text-2xl text-slate-900 mb-2 tracking-widest">LDR STUDIO</h2>
         <p className="font-mono text-[10px] text-slate-500 font-bold tracking-widest mb-8">
           DIGITAL CREATIVE SPACE · GRT · EST 2026
         </p>
