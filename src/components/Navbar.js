@@ -44,7 +44,7 @@ const Navbar = () => {
               <span className="text-white font-retro text-lg leading-none mt-1">F</span>
             </div>
             <span className="font-retro text-xl text-slate-900 hidden sm:block tracking-tighter">
-              FRYSSIA<span className="text-pink-500">STUDIO</span>
+              LDR<span className="text-pink-500">STUDIO</span>
             </span>
           </Link>
 
